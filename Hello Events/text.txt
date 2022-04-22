@@ -1,0 +1,1 @@
+This a static website design for an event management company. This project build by Faijul Abedin. Tools and languages use this project are: HTML, CSS, JavaScript, VS Code, FontAwesome, Google Fonts, git.
